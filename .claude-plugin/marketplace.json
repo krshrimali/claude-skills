@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "name": "krshrimali-skills",
+      "description": "A collection of Claude Code skills: DSA challenges, tech deep dives, and line history analysis.",
+      "source": "./"
+    }
+  ]
+}
